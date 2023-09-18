@@ -2,31 +2,29 @@ Project Title: Personal Homepage Development
 
 Project Description:
 
-As an MSCS student with a passion for web development and a diverse range of skills and interests, I am embarking on the creation of my personal homepage. This project aims to design and develop a user-friendly, informative, and visually appealing website that serves as a digital representation of myself, showcasing my academic journey, skills, projects, hobbies, and contact information.
+As an MSCS student with a passion for web development and a diverse range of skills and interests,
+I am embarking on the creation of my personal homepage. This project aims to design and develop a
+user-friendly, informative, and visually appealing website that serves as a digital representation
+of myself, showcasing my academic journey, skills, projects, hobbies, and contact information.
 
 Project Goals:
 
-1. Skill Display: The primary objective is to effectively display my skills and expertise in the field of computer science. This includes programming languages, software tools, and any specialized knowledge acquired during my studies.
+1. Skill Display: The primary objective is to effectively display my skills and expertise in the
+field of computer science. This includes programming languages, software tools, and any specialized
+knowledge acquired during my studies.
 
-2. Academic Overview: Provide a concise summary of my academic journey, including my current MSCS program, relevant courses, research interests, and academic achievements.
+2. Academic Overview: Provide a concise summary of my academic journey, including my current MSCS
+program, relevant courses, research interests, and academic achievements.
 
-3. Project Portfolio: Showcase a curated selection of my most significant and relevant projects. Each project will include descriptions, technologies used, and links to view or access the project, where applicable.
+3. Project Portfolio: Showcase a curated selection of my most significant and relevant projects.
+Each project will include descriptions, technologies used, and links to view or access the
+project, where applicable.
 
-4. Hobbies and Interests: Highlight my personal hobbies and interests, helping visitors to get to know me beyond my academic and professional pursuits.
+4. Hobbies and Interests: Highlight my personal hobbies and interests, helping visitors to get to
+know me beyond my academic and professional pursuits.
 
-5. Contact Information: Ensure easy accessibility by providing contact information, including email and social media profiles, for anyone interested in reaching out or connecting with me.
-
-Key Features:
-
-- Responsive Design: The website will be designed to adapt to various screen sizes and devices, ensuring a seamless user experience on both desktop and mobile.
-
-- Interactive Elements: Incorporate interactive elements like animations, hover effects, and smooth transitions to engage visitors and create an enjoyable browsing experience.
-
-- Clean and Modern Aesthetics: Utilize modern design principles to create an aesthetically pleasing and visually appealing website, with a focus on readability and accessibility.
-
-- Content Management: Implement a content management system (CMS) or a user-friendly admin panel to easily update and add new content as needed.
-
-- SEO Optimization: Optimize the website for search engines to improve its visibility and discoverability online.
+5. Contact Information: Ensure easy accessibility by providing contact information, including
+email and social media profiles, for anyone interested in reaching out or connecting with me.
 
 Technologies and Tools:
 
@@ -35,7 +33,3 @@ Technologies and Tools:
 - Version Control: Use Git for version control to track changes and collaborate on the project.
 
 - Hosting: Deploy the website on a reliable web hosting platform, in this case, GitHub Pages.
-
-Timeline:
-
-This project will be developed iteratively over the course of several weeks to ensure attention to detail and a polished final product. The timeline will include phases for design, development, content creation, and testing.

@@ -1,0 +1,36 @@
+User Persona 1: 
+    Name: Emily
+    Job: Hiring Manager 
+    Background: Emily is a hiring manager at a tech company, and she's considering me
+                for a job opportunity. She's a professional with a busy schedule.
+    Goals:
+        - To assess your skills, qualifications, and professional background.
+        - To contact you for a job interview or to discuss potential employment.
+    Limitations:
+        - Limited time to explore your website thoroughly.
+        - Looking for concise and relevant information about your qualifications.
+User Story of Emily:
+    As Emily, I have a busy schedule and limited time to review candidates. I need
+    to quickly find information on your homepage that showcases your skills and
+    qualifications for the job position I have available. If I find your profile
+    interesting, I'd like to see clear contact information to reach out for further
+    discussions about potential employment.
+
+User Persona 2:
+    Name: Sarah
+    Job: MSCS Student at Northeastern
+    Background: Sarah is a fellow MSCS student and a close friend who wants to keep
+                in touch. She values your personal and academic updates.
+    Goals:
+        - To stay updated on your academic and personal life, like hobbies.
+        - To find ways to reach out and connect with you.
+    Limitations:
+        - Sarah has a solid computer science background, so she can appreciate
+          technical details but still prefers explanations that are clear and concise.
+        - She values personal updates and a friendly, approachable tone.
+User Story of Sarah:
+    As Sarah, I want to visit your homepage to catch up on your MSCS program progress
+    and personal life updates. While I'm interested in your academic achievements, I
+    also appreciate a more personal touch and updates about your hobbies and interests.
+    I hope to find your contact information or links to social media profiles to stay
+    in touch and have casual conversations about our studies and hobbies.
