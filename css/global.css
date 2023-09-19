@@ -6,7 +6,7 @@
     text-align: right;
 }
 
-nav.navbar>a.navbar-brand {
+nav.navbar>h2.navbar-brand {
     color: purple;
     font-family: 'Fuggles', cursive;
     font-size: xx-large;
