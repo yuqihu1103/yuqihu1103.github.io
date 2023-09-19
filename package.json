@@ -1,0 +1,25 @@
+{
+  "name": "yuqi-hu-homepage",
+  "version": "1.0.0",
+  "description": "Yuqi Hu's personal homepage",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuqihu1103/Personal-Homepage.git"
+  },
+  "author": "Yuqi Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuqihu1103/Personal-Homepage/issues"
+  },
+  "homepage": "https://github.com/yuqihu1103/Personal-Homepage#readme",
+  "devDependencies": {
+    "eslint": "^8.49.0"
+  }
+}
