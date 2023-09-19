@@ -1,0 +1,21 @@
+.education {
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.education h1 {
+    text-align: right;
+}
+
+.card-img-top {
+    border-radius: 8%;
+    width: 60%;
+    height: 60%;
+    margin-left: 20%;
+}
+
+.card-title {
+    font-weight: bold;
+    text-align: center;
+}
