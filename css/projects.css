@@ -1,0 +1,32 @@
+.projects {
+    margin-top: 1%;
+}
+
+.projects h1 {
+    text-align: right;
+}
+
+.card-img-top {
+    border-radius: 8%;
+    width: 30%;
+    height: 60%;
+    margin-left: 35%;
+}
+
+.card-title, .announcement{
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.announcement h2 {
+    font-family:cursive;
+    margin-bottom: 2%;
+}
