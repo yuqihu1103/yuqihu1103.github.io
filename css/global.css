@@ -1,4 +1,12 @@
-nav.navbar > a.navbar-brand{
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    text-align: right;
+}
+
+nav.navbar>a.navbar-brand {
     color: purple;
     font-family: 'Fuggles', cursive;
     font-size: xx-large;
@@ -6,28 +14,28 @@ nav.navbar > a.navbar-brand{
 
 div.collapse.navbar-collapse a.nav-link.redirection {
     font-size: large;
-    font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
     margin-right: 20px;
 }
 
-.center {
+.contact {
     text-align: center;
 }
 
-div.contact h2 {
-    font-size: large;
+.contact h2 {
+    font-size: x-large;
+    font-weight: bold;
 }
 
-div.contact p {
+.contact p {
     font-size: small;
 }
 
-div.contact span {
+.contact span {
     font-family: fantasy;
-} 
+}
 
-div.contact img {
+.contact img {
     width: 40px;
     height: 40px;
 }

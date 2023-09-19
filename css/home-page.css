@@ -1,0 +1,25 @@
+.main-content {
+    margin: 4%;
+}
+
+#main-intro {
+    font-size: xx-large;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-intro p {
+    margin: 0;
+}
+
+#hello-world {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.photo img {
+    width: 20em;
+    height: 26.6em;
+    border-radius: 8%;
+}
