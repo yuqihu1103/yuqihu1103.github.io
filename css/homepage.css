@@ -1,8 +1,33 @@
-header h1{
+nav.navbar > a.navbar-brand{
     color: purple;
+    font-family: 'Fuggles', cursive;
+    font-size: xx-large;
 }
 
-div.contact a img {
-    width: 5em;
-    height: 5em;
+div.collapse.navbar-collapse a.nav-link.redirection {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+div.contact h2 {
+    font-size: large;
+}
+
+div.contact p {
+    font-size: small;
+}
+
+div.contact span {
+    font-family: fantasy;
+} 
+
+div.contact img {
+    width: 40px;
+    height: 40px;
 }
