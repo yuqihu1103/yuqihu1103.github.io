@@ -16,6 +16,7 @@ of myself, showcasing my education, skills, projects, hobbies, and ways to conne
 
 <img width="1430" alt="Screenshot 2023-09-19 at 3 30 07 PM" src="https://github.com/yuqihu1103/Personal-Homepage/assets/133090163/e530714c-9378-4951-bde5-15755e13f8d5">
 
+
 **Design Documents:**
 
 Design documents can be found in the [docs](docs) folder, including:
@@ -23,3 +24,6 @@ Design documents can be found in the [docs](docs) folder, including:
 2. [User Personas and User Stories](docs/user-personas-and-stories.txt)
 3. [Design Mockup](docs/design-mockup.pdf)  overview:
 <img width="882" alt="Screenshot 2023-09-18 at 3 27 55 PM" src="https://github.com/yuqihu1103/Personal-Homepage/assets/133090163/1cbb21cb-804e-4f74-9daf-206512673d9a">
+
+
+**License:** This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
