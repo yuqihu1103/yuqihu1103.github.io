@@ -39,4 +39,9 @@ Design documents can be found in the [docs](docs) folder, including:
 
 # Others
 
+**Changelog:**
+
+- [Version 1.0.0] - Create the index, about-me, education, skill, project and hobbies pages. (09/19/2023).
+
+
 **License:** This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
