@@ -1,6 +1,13 @@
 # Yuqi Hu's Personal Homepage
 
-**Design Documents**
+**Author:** Yuqi Hu
+
+**Class Link:** [CS5610 at Northeastern FA23](https://johnguerra.co/classes/webDevelopment_fall_2023/)
+
+**Project Objectives:**
+
+
+**Design Documents:**
 
 Design documents can be found in the [docs](docs) folder, including:
 1. [Project Description](docs/project-description.txt)
