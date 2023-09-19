@@ -13,17 +13,16 @@
     margin-left: 35%;
 }
 
-.card-title, .announcement{
-    font-weight: bold;
-    text-align: center;
-}
-
 .card-body{
     text-align: center;
 }
 
 .card-text{
     text-align: left;
+}
+
+.announcement {
+    text-align: center;
 }
 
 .announcement h2 {
