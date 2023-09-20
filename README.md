@@ -16,7 +16,7 @@ of myself, showcasing my education, skills, projects, hobbies, and ways to conne
 
 *Prerequisite:* You need to have Node.js installed on your system
 1. Clone the project to your local machine with `git clone https://github.com/yuqihu1103/Personal-Homepage.git`
-2. Navigate to the project directory. Install all dependencies with `npm install` and Build with `npm run build`
+2. Navigate to the project directory. Install all dependencies with `npm install`
 3. Run by openning the index.html file in your web browser. You can also host it on a web server of your choice
 
 # Demo and Presentation
