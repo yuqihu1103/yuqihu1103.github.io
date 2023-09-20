@@ -21,9 +21,10 @@ of myself, showcasing my education, skills, projects, hobbies, and ways to conne
 
 # Demo and Presentation
 
-**Project Presentation Slides:** [Slides](https://docs.google.com/presentation/d/1C1mstLbUyo__t5aylAu0zO8KA4uahiUQsfkcisEyFYU/edit?usp=sharing)
+**Project Presentation Slides:** [Slides](https://docs.google.com/presentation/d/1C1mstLbUyo__t5aylAu0zO8KA4uahiUQsfkcisEyFYU/edit?usp=sharing)  | 
+[2-min Presentation](https://youtu.be/rvUxoe4Ljgo)
 
-**Project Demonstration Video:** [3-min Videeo](https://youtu.be/aBV7YpzBmVQ)
+**Project Demonstration Video:** [3-min Video](https://youtu.be/aBV7YpzBmVQ)
 
 **Overview (gif):**
 
