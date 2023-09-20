@@ -3,9 +3,9 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="A brief introduction of Yuqi Hu" />
+        <meta name="description" content="A summary of projects of Yuqi Hu" />
         <meta name="author" content="Yuqi Hu" />
-        <title>About Yuqi Hu</title>
+        <title>Projects of Yuqi Hu</title>
         <link rel="icon" href="./assets/hu_icon.png" type="image/png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -19,13 +19,13 @@
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
             crossorigin="anonymous"
         />
-        <link rel="stylesheet" href="./css/global.css" />
-        <link rel="stylesheet" href="./css/about-me.css" />
+        <link rel="stylesheet" href="../css/global.css" />
+        <link rel="stylesheet" href="../css/projects.css" />
     </head>
 
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <h1 class="navbar-brand">Welcome to Yuqi Hu's About Me</h1>
+            <h1 class="navbar-brand">Welcome to Yuqi Hu's Projects</h1>
             <button
                 class="navbar-toggler"
                 type="button"
@@ -41,7 +41,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link redirection" href="index.html"
+                        <a class="nav-link redirection" href="../index.html"
                             >Home</a
                         >
                     </li>
@@ -74,36 +74,43 @@
             </div>
         </nav>
 
-        <div class="container about-me">
-            <div>
-                <h2>About me</h2>
-                <ul>
-                    <li>
-                        I was born and raised in Beijing China. I first came to
-                        the US in 2018 and had been living and studying in
-                        California since.
-                    </li>
-                    <li>
-                        While I studied psychology as an undergraduate, I am
-                        currently working towards a master’s degree in computer
-                        science and aspiring to become a software engineer in
-                        the near future.
-                    </li>
-                    <li>
-                        I have many go-tos in my leisure time. My favorite is
-                        bouldering right now.
-                    </li>
-                    <li>
-                        Check out more about my
-                        <a href="education.html">education</a>,
-                        <a href="skills.html">skills</a>,
-                        <a href="projects.html">projects</a>, and
-                        <a href="hobbies.html">hobbies</a>. Use the navigation
-                        bar on the top or simply follow the links.
-                    </li>
-                </ul>
+        <div class="container projects">
+            <div class="row">
+                <div class="card border-0" id="simple-bank">
+                    <img
+                        class="card-img-top"
+                        src="./assets/simple-bank.jpg"
+                        alt="Screenshot of simple bank's design"
+                    />
+                    <div class="card-body">
+                        <h5 class="card-title">Simple Bank</h5>
+                        <ul class="card-text">
+                            <li>
+                                The Simple Bank is a back-end web application
+                                that allows creating and managing accounts,
+                                recording all balance changes, performing money
+                                transfer transactions.
+                            </li>
+                            <li>
+                                Language and tools used in this project include:
+                                SQL, Docker, Golang, Gin, JWT, Kubernetes, etc.
+                            </li>
+                            <li>
+                                I am still actively developing this project and
+                                expect to finish it with in a few weeks.
+                            </li>
+                        </ul>
+                        <a
+                            href="https://github.com/yuqihu1103/SimpleBank"
+                            class="btn btn-primary"
+                            >Link to the project on Github</a
+                        >
+                    </div>
+                </div>
             </div>
         </div>
+
+        <div class="announcement"><h2>More Projects Coming!</h2></div>
 
         <footer>
             <div class="contact">
