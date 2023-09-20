@@ -25,9 +25,9 @@ of myself, showcasing my education, skills, projects, hobbies, and ways to conne
 
 **Project Demonstration Video:**
 
-**Screenshot of the Homepage:**
+**Overview (gif):**
 
-<img width="1430" alt="Screenshot 2023-09-19 at 3 30 07 PM" src="https://github.com/yuqihu1103/Personal-Homepage/assets/133090163/e530714c-9378-4951-bde5-15755e13f8d5">
+![overview](https://github.com/yuqihu1103/Personal-Homepage/assets/133090163/24f6db15-bd56-4ff6-ba8b-aeca4e026313)
 
 # Design Documents
 
