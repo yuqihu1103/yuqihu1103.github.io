@@ -21,7 +21,7 @@ of myself, showcasing my education, skills, projects, hobbies, and ways to conne
 
 # Demo and Presentation
 
-**Project Presentation Slides:**
+**Project Presentation Slides:** [Slides](https://docs.google.com/presentation/d/1C1mstLbUyo__t5aylAu0zO8KA4uahiUQsfkcisEyFYU/edit?usp=sharing)
 
 **Project Demonstration Video:**
 
