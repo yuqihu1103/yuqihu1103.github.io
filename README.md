@@ -1,6 +1,6 @@
 # Yuqi Hu's Personal Homepage
 
-**Delopyed URL:** https://yuqihu1103.github.io/Personal-Homepage/index.html 
+**Delopyed URL:** https://yuqihu1103.github.io/
 
 **Author:** Yuqi Hu hu.yuqi@northeastern.edu
 
