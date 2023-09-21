@@ -14,7 +14,7 @@ of myself, showcasing my education, skills, projects, hobbies, and ways to conne
 
 # Instructions to Build and Run the Project
 
-*Prerequisite:* You need to have Node.js installed on your system
+*Prerequisite:* You need to have Node.js installed on your system // could you include this as a step 0 - but otherwise, I really like the way you've organized your code. it looks clean and efficient 
 1. Clone the project to your local machine with `git clone https://github.com/yuqihu1103/yuqihu1103.github.io.git`
 2. Navigate to the project directory. Install all dependencies with `npm install`
 3. Run by openning the index.html file in your web browser. You can also host it on a web server of your choice
