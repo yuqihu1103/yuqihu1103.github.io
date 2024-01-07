@@ -1,6 +1,6 @@
 .about-me {
-    text-align:left;
-    margin: 10%;
+    text-align: left;
+    margin: 3%;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -17,12 +17,35 @@ h2 {
     text-align: center;
 }
 
-.about-me a { 
+.about-me a {
     text-decoration: underline;
-    color:cornflowerblue;
+    color: cornflowerblue;
 }
 
 .about-me a:hover {
     text-decoration: none;
     color: aqua;
+}
+
+/* CSS for the card layout */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    padding: 20px;
+    width: calc(50% - 10px);
+    box-sizing: border-box;
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
 }
