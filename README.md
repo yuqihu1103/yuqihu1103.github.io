@@ -4,8 +4,6 @@
 
 **Author:** Yuqi Hu hu.yuqi@northeastern.edu
 
-**Class Link:** [CS5610 at Northeastern FA23](https://johnguerra.co/classes/webDevelopment_fall_2023/)
-
 **Project Objectives:**
 As an MSCS student with a passion for web development and a diverse range of skills and interests,
 I am embarking on the creation of my personal homepage. This project aims to design and develop a
