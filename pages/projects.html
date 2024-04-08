@@ -75,8 +75,8 @@
         </nav>
 
         <div class="container projects">
-            <div class="row">
-                <div class="card border-0" id="simple-bank">
+            <div class="row" id="row1">
+                <div class="card border-0 col-4" id="simple-bank">
                     <img
                         class="card-img-top"
                         src="../assets/simple-bank.jpg"
@@ -86,18 +86,15 @@
                         <h5 class="card-title">Simple Bank</h5>
                         <ul class="card-text">
                             <li>
-                                The Simple Bank is a back-end web application
-                                that allows creating and managing accounts,
-                                recording all balance changes, performing money
-                                transfer transactions.
+                                The Simple Bank is a backend service for a
+                                simple bank, which provides APIs for: create and
+                                manage bank accounts; record all balance changes
+                                to each of the accounts; and perform a money
+                                transfer between two accounts.
                             </li>
                             <li>
                                 Language and tools used in this project include:
                                 SQL, Docker, Golang, Gin, JWT, Kubernetes, etc.
-                            </li>
-                            <li>
-                                I am still actively developing this project and
-                                expect to finish it with in a few weeks.
                             </li>
                         </ul>
                         <a
@@ -107,8 +104,41 @@
                         >
                     </div>
                 </div>
+
+                <div class="card border-0 col-4" id="steady-sobriety">
+                    <img
+                        class="card-img-top"
+                        src="../assets/steady-sobriety.png"
+                        alt="Screenshot of steady-sobriety"
+                    />
+                    <div class="card-body">
+                        <h5 class="card-title">Steady Sobriety</h5>
+                        <ul class="card-text">
+                            <li>
+                                Steady Sobriety is a MERN stack web application
+                                that provides tools for individuals to overcome
+                                alcohol abuse, with features including drinking
+                                history recording, sober time tracking, and
+                                sober leaderboard, etc.
+                            </li>
+                            <li>
+                                Language and tools used in this project:
+                                Backend: Node + Express, MongoDB, passport.js
+                                Frontend: React, Vite, CSS, Bootstrap
+                                Deployment: Render, MongoDB Altas
+                            </li>
+                        </ul>
+                        <a
+                            href="https://github.com/yuqihu1103/SteadySobriety"
+                            class="btn btn-primary"
+                            >Link to the project on Github</a
+                        >
+                    </div>
+                </div>
             </div>
+            <!-- closes row one-->
         </div>
+        <!-- closes projects container-->
 
         <div class="announcement"><h2>More Projects Coming!</h2></div>
 
